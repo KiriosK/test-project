@@ -1,29 +1,19 @@
 # test-project
 
-## Project setup
+## Установка
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Вставьте свой токен в .env
+
+```
+VUE_APP_API_KEY=yourApiKey
+```
+
+### Запуск в режиме development
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
