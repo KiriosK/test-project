@@ -6,7 +6,7 @@
 npm install
 ```
 
-### Вставьте свой токен в .env
+### Вставьте свой токен для запросов к [API](https://dadata.ru/api/) в .env
 
 ```
 VUE_APP_API_KEY=yourApiKey
